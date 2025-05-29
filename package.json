@@ -1,6 +1,6 @@
 {
 	"name": "@iatnaod/canvas-editor",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"description": "Canvas editor for react",
 	"repository": "https://github.com/IATNAOD/canvas-editor.git",
 	"author": "IATNAOD",
