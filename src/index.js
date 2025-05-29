@@ -1,0 +1,3 @@
+export { default as DefaultButton } from './components/Buttons/DefaultButton';
+
+export default { DefaultButton };
