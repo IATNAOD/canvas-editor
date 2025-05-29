@@ -32,7 +32,6 @@ export default {
 					resolve({ code: result.css.toString() });
 				}),
 			plugins: [autoprefixer(), postcssUrl({ url: 'inline' })],
-			extract: true,
 			minimize: true,
 			sourceMap: true,
 		}),
